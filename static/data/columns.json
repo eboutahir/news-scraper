@@ -1,0 +1,17 @@
+[
+  {
+    "field": "ArticleTitle",
+    "title": "ArticleTitle",
+    "sortable": "True"
+  },
+  {
+    "field": "ArticleUrl",
+    "title": "ArticleUrl",
+    "sortable": "True"
+  },
+  {
+    "field": "ArticleSummary",
+    "title": "ArticleSummary",
+    "sortable": "True"
+  }
+]
